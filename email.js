@@ -27,3 +27,7 @@ function acessar(){
  
  
  }
+//  FUNÇÃO PARA CRIAR LISTA DE USÚARIOS 
+ function criraLisa(){
+   
+ }

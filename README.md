@@ -126,7 +126,7 @@ function validarCPF(cpf) {
 
     return true;
 
-
+o codigo do cpf no javaSescript realiza a função de verificar se seu cpf e valido e se o cpf n for valido ele mostrara uma mensagem endi sera informado " CPF invalido ".
 }
    ```
    
@@ -208,3 +208,4 @@ function acessar(){
  
  }
    ``` 
+   o codigo do gmail no javaSescript realiza a função de verificar se seu gmail e valido e se o gamil não for valido ele mostrara uma mensagem endi sera informado " diguite um gmail valido porfavor ".
